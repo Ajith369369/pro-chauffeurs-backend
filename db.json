@@ -164,5 +164,18 @@
       "About": "Skilled female driver with a decade of experience. Prioritizes passenger comfort and safety, ensuring a smooth travel experience",
       "Profile": "./drivers/9.jpg"
     }
-  ]
+  ],
+  "Allplaces": [
+      { "id": 1, "name": "aluva", "longitude": 76.350693, "latitude": 10.107796 },
+      { "id": 2, "name": "kakkanad", "longitude": 76.3418586, "latitude": 10.0158685 },
+      { "id": 3, "name": "edapally", "longitude": 76.311371, "latitude": 10.023286 },
+      { "id": 4, "name": "palarivattom", "longitude": 76.311935, "latitude": 9.998480 },
+      { "id": 5, "name": "kaloor", "longitude": 76.2971403, "latitude": 9.9985042 },
+      { "id": 6, "name": "perumbavoor", "longitude": 76.4778099, "latitude": 10.1147475 },
+      { "id": 7, "name": "vyttila", "longitude": 76.3148303948103, "latitude": 9.96812875335715 },
+      { "id": 8, "name": "thrissur", "longitude": 76.214729, "latitude":  10.530345 },
+      { "id": 9, "name": "angamaly", "longitude": 76.386977, "latitude":  10.192642},
+      { "id": 10, "name": "muvattupuzha", "longitude": 76.580307, "latitude":   9.979882}
+
+    ]
 }

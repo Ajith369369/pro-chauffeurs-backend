@@ -185,7 +185,7 @@
       { "id": 7, "name": "vyttila", "longitude": 76.3148303948103, "latitude": 9.96812875335715 },
       { "id": 8, "name": "thrissur", "longitude": 76.214729, "latitude":  10.530345 },
       { "id": 9, "name": "angamaly", "longitude": 76.386977, "latitude":  10.192642},
-      { "id": 10, "name": "muvattupuzha", "longitude": 76.580307, "latitude":   9.979882}
+      { "id": 10, "name": "muvattupuzha", "longitude": 76.580306, "latitude":   9.979882}
 
     ]
 }

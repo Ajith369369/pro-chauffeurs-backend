@@ -287,61 +287,61 @@
   "Allplaces": [
     {
       "id": 1,
-      "name": "aluva",
+      "name": "Aluva",
       "longitude": 76.350693,
       "latitude": 10.107796
     },
     {
       "id": 2,
-      "name": "kakkanad",
+      "name": "Kakkanad",
       "longitude": 76.3418586,
       "latitude": 10.0158685
     },
     {
       "id": 3,
-      "name": "edapally",
+      "name": "Edapally",
       "longitude": 76.311371,
       "latitude": 10.023286
     },
     {
       "id": 4,
-      "name": "palarivattom",
+      "name": "Palarivattom",
       "longitude": 76.311935,
       "latitude": 9.99848
     },
     {
       "id": 5,
-      "name": "kaloor",
+      "name": "Kaloor",
       "longitude": 76.2971403,
       "latitude": 9.9985042
     },
     {
       "id": 6,
-      "name": "perumbavoor",
+      "name": "Perumbavoor",
       "longitude": 76.4778099,
       "latitude": 10.1147475
     },
     {
       "id": 7,
-      "name": "vyttila",
+      "name": "Vyttila",
       "longitude": 76.3148303948103,
       "latitude": 9.96812875335715
     },
     {
       "id": 8,
-      "name": "thrissur",
+      "name": "Thrissur",
       "longitude": 76.214729,
       "latitude": 10.530345
     },
     {
       "id": 9,
-      "name": "angamaly",
+      "name": "Angamaly",
       "longitude": 76.386977,
       "latitude": 10.192642
     },
     {
       "id": 10,
-      "name": "muvattupuzha",
+      "name": "Muvattupuzha",
       "longitude": 76.580306,
       "latitude": 9.979882
     }
